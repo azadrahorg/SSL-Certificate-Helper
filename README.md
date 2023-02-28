@@ -7,5 +7,5 @@ SSL Certificate Helper acme.sh
 
 
 ```bash
-  cd my-project
+  bash -c "$(curl -L https://raw.githubusercontent.com/azadrahorg/SSL-Certificate-Helper/main/sslhelper.sh)"
 ```
